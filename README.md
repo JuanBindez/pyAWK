@@ -1,4 +1,8 @@
 # AWK-PYTHON
+
+#### "This project is licensed under the MIT License."
+#### "Este projeto está licenciado nos termos da licença MIT."
+
 ferramenta para o comando awk do Linux
 ![Captura de tela de 2022-07-13 21-58-47](https://user-images.githubusercontent.com/79322362/178867039-12da8486-b7f9-4d03-916f-e036210bf0e4.png)
 
