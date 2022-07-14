@@ -35,6 +35,7 @@ OS: Linux
 import os
 import time
 
+
 try:
 
     def awk_test_a(caminho):
@@ -96,6 +97,7 @@ try:
         os.system('awk -F " " {0} {1}'.format(id, caminho))
         menu_header()
 
+        
     def awk_test_k(caminho):
         id = "'{print $1$2$3$4$5$6$7$8$10}'"
         os.system('awk -F " " {0} {1}'.format(id, caminho))
@@ -167,12 +169,9 @@ try:
                 print("Digite Apenas Até 10")
 
 
-
     desenho_header()
     nome_arquivo = str(input('Digite o Nome Do Arquivo ou Caminho\n>'))
     menu_header()
-
-
 
 
 except KeyboardInterrupt:
