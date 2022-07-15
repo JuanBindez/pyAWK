@@ -25,7 +25,6 @@ SOFTWARE.
 
 '''
 Author: www.github.com/JuanBindez
-License: https://github.com/JuanBindez/AWK-PYTHON/blob/main/LICENSE
 Description: command awk
 Python Version: 3.10
 year: 2022
