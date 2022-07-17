@@ -6,16 +6,18 @@
 
 ## Você Precisa Ter o Git Instalado:
 
-    `$ sudo apt install git`
+    $ sudo apt install git
 
 ## Download:
 ------------
 
-`git clone https://github.com/JuanBindez/AWK-PYTHON`
+    git clone https://github.com/JuanBindez/AWK-PYTHON
 
 ## Dentro Do Diretório Onde Esta o Script awk.py Digite o Comando:
 
-`python3 awk.py`
+.. code-block:: bash
+
+    python3 awk.py
 
 ferramenta para o comando awk do Linux
 
