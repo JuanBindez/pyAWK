@@ -3,7 +3,17 @@
 #### "This project is licensed under the MIT License."
 #### "Este projeto está licenciado nos termos da licença MIT."
 
+## Você Precisa Ter o Git Instalado:
 
+`sudo apt install git`
+
+## Download:
+
+`git clone https://github.com/JuanBindez/AWK-PYTHON/`
+
+## Dentro Do Diretório Onde Esta o Script awk.py Digite o Comando:
+
+`python3 awk.py`
 
 ferramenta para o comando awk do Linux
 
