@@ -7,7 +7,7 @@
 
 .. code-block:: bash
 
-  $ sudo apt install git
+  $ sudo apt install git.
 
 ## Download:
 
