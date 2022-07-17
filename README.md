@@ -4,6 +4,7 @@
 #### "Este projeto está licenciado nos termos da licença MIT."
 
 ## Você Precisa Ter o Git Instalado:
+------------
 
 .. code-block:: bash
 
