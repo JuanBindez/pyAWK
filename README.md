@@ -6,7 +6,7 @@
 
 ## Você Precisa Ter o Git Instalado:
 
-.. code-block :: bash
+ .. code-block :: bash
 
     $ sudo apt install git
 
