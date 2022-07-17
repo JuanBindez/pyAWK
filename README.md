@@ -11,13 +11,13 @@
 ## Download:
 ------------
 
-    git clone https://github.com/JuanBindez/AWK-PYTHON
+    $ git clone https://github.com/JuanBindez/AWK-PYTHON
 
 ## Dentro Do Diretório Onde Esta o Script awk.py Digite o Comando:
 
 .. code-block:: bash
 
-    python3 awk.py
+    $ python3 awk.py
 
 ferramenta para o comando awk do Linux
 
