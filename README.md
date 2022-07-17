@@ -6,10 +6,10 @@
 
 ## Você Precisa Ter o Git Instalado:
 
-'''python
+```python
 
     import os
-'''
+```
 
 .. code-block:: bash
 
