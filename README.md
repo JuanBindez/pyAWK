@@ -6,6 +6,11 @@
 
 ## Você Precisa Ter o Git Instalado:
 
+'''python
+
+    import os
+'''
+
 .. code-block:: bash
 
     $ sudo apt install git
