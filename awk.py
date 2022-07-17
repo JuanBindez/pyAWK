@@ -288,6 +288,3 @@ try:
 
 except KeyboardInterrupt:
     print("Você Encerrou o Programa !")
-
-except KeyboardInterrupt:
-    print("Você Encerrou o Programa !")
