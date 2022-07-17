@@ -5,7 +5,8 @@
 
 ## Você Precisa Ter o Git Instalado:
 
-`sudo apt install git`
+.. code-block:: bash
+  $ sudo apt install git
 
 ## Download:
 
