@@ -184,7 +184,7 @@ try:
 
         
     def desenho_header():
-        print(Color.MAGENTA +
+        print(Color.CYANO +
             '''
                            _              ____        _   _                 
              __ ___      _| | __    _    |  _ \ _   _| |_| |__   ___  _ __  
