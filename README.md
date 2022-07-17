@@ -7,6 +7,10 @@
 
 .. code-block:: bash
 
+    $ pip install geoip2
+
+.. code-block:: bash
+
   $ sudo apt install git.
 
 ## Download:
