@@ -2,15 +2,16 @@
 
 #### "This project is licensed under the MIT License."
 #### "Este projeto está licenciado nos termos da licença MIT."
+------------
 
 ## Você Precisa Ter o Git Instalado:
-------------
 
 .. code-block:: bash
 
     $ sudo apt install git .
 
 ## Download:
+------------
 
 `git clone https://github.com/JuanBindez/AWK-PYTHON`
 
