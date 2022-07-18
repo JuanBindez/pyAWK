@@ -7,9 +7,9 @@
 ## Você Precisa Ter o Git Instalado:
 
     $ sudo apt install git
-
-## Download:
 ------------
+## Download:
+
 
     $ git clone https://github.com/JuanBindez/AWK-PYTHON
 
@@ -18,7 +18,7 @@
 .. code-block:: bash
 
     $ python3 awk.py
-
+------------
 ferramenta para o comando awk do Linux
 
 ![Captura de tela de 2022-07-17 19-04-10](https://user-images.githubusercontent.com/79322362/179426621-975ffda0-73f2-48fb-960f-daed3ca0493f.png)
