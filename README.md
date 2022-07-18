@@ -12,6 +12,8 @@
 
 
     $ git clone https://github.com/JuanBindez/AWK-PYTHON
+    
+------------
 
 ## Dentro Do Diretório Onde Esta o Script awk.py Digite o Comando:
 
