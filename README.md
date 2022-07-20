@@ -17,7 +17,6 @@
 
 ## Dentro Do Diretório Onde Esta o Script awk.py Digite o Comando:
 
-.. code-block:: bash
 
     $ python3 awk.py
 ------------
