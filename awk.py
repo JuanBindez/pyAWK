@@ -191,7 +191,7 @@ try:
         + Color.RESET)
 
 
-        escolha = int(input(">"))
+        escolha = int(input(">>>"))
 
         match escolha:
             case 1:
