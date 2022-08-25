@@ -13,7 +13,7 @@
 ## Download:
 
 
-    $ git clone https://github.com/JuanBindez/pyAWK-v-0.4
+    $ git clone https://github.com/JuanBindez/pyAWK-v1.0.4
     
 ------------
 
